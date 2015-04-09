@@ -5,7 +5,6 @@
     "Omer Faruk Demir <ofaruk.demir@gmail.com>"
   ],
   "description": "Angular boilerplate application",
-  "main": "server.js",
   "keywords": [
     "Angular",
     "Template",
