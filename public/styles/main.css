@@ -1,0 +1,9 @@
+@import url(http://fonts.googleapis.com/css?family=Dosis:200,300,400,500,600);
+body, a, p, h1, h2, h3, h4, h5, h6, b, span, tr, td {
+  font-family: "Dosis", sans-serif;
+  color: #ddd; }
+
+p {
+  color: #111111; }
+
+/*# sourceMappingURL=main.css.map */
